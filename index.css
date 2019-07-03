@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  float:left;
+}
+.gameSheet{
+  width: 50%;
+}
+
+.box{
+  border: 1px solid blue;
+  width: 33%;
+  height:200px;
+  float: left;
+}
